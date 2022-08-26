@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: MyPool
+pool: Aditya
 
 steps:
 - task: Maven@3
